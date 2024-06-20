@@ -1,0 +1,7 @@
+{
+  "name": "meditApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
